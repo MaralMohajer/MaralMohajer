@@ -38,8 +38,3 @@ Currently seeking opportunities to grow as a **Software Engineer / AI enthusiast
 - **Advanced Algorithmic Thinking & Data Structures** – Quera College  
 - **Task-Oriented Course in Version Control with Git** – Quera College  
 
----
-
-## 🔹 Languages
-- **Persian**: Native  
-- **English**: Intermediate (B1)  
